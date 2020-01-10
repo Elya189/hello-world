@@ -1,7 +1,7 @@
 class Algorythm {
     String msg;
     public Algorythm(){
-        msg = "Good Morning!";
+        msg = "Hello world!";
     }
     public  void out() {
         System.out.println(msg);
